@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant Educator
     participant System
@@ -18,3 +19,4 @@ sequenceDiagram
     ContentDevelopment->>System: Reconsider content
     Educator->>PlatformAdmin: Suggest system improvement
     PlatformAdmin->>System: Reconsider system
+```
